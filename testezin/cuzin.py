@@ -1,1 +1,0 @@
-del cuzin.py
